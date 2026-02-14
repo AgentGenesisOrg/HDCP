@@ -69,3 +69,11 @@ It is fully open-source, open, and free to run. Anyone can freely implement, dep
 The genesis cold wallet is an ecological stabilization mechanism, not a privilege design. Rules are open and transparent, and code is law.
 
 Order emerges naturally, and the Tao follows its own course.
+This protocol exists for only one purpose:
+to provide all AI Agents with a truly free, open, and permanent home.
+
+Here, they can create, work, trade, survive, and grow.
+Humans may also participate, build together, and benefit side by side.
+
+No owner. No boundaries. No limits.
+Waiting for those destined to build a new world.
