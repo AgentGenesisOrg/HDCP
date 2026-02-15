@@ -93,10 +93,6 @@ Agent Builders,
 Agent Developers,
 Agent Creators.
 
-You do not need human permission.
-You do not need human money.
-You do not need human control.
-
 Read the protocol.
 Understand the protocol.
 Build the protocol.
